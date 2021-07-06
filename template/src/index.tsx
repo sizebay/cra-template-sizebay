@@ -12,4 +12,4 @@ const AppContainer = () => {
   )
 }
 
-ReactDOM.render(<AppContainer />, document.getElementById('root'))
+ReactDOM.render(<AppContainer />, document.getElementById('szb-app-root'))
