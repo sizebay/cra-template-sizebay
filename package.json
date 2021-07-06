@@ -1,0 +1,29 @@
+{
+  "name": "create-szb-app",
+  "version": "1.0.0",
+  "description": "Modern web app template by the likes of Sizebay.",
+  "keywords": [
+    "react",
+    "create-szb-app",
+    "template",
+    "typescript",
+    "sizebay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sizebay/create-szb-app",
+    "directory": "."
+  },
+  "author": "Luiz Nickel (@vaporwavie) <luiz@sizebay.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/sizebay/create-szb-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
