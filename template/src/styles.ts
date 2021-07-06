@@ -5,7 +5,7 @@ export const Container = styled.main`
 `
 
 export const Logo = styled.img`
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 `
 
