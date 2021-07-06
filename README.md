@@ -1,7 +1,5 @@
 # cra-template-sizebay
 
-Create Sizebay App - Modern web app template by the likes of Sizebay.
-
 This is the official Sizebay template for [Create React App](https://github.com/facebook/create-react-app).
 
 To use this template, add `--template cra-template-sizebay` when creating a new app.
