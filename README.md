@@ -18,6 +18,6 @@ yarn create react-app my-app --template cra-template-sizebay
 
 For more information, please refer to:
 
-- [Sizebay Website](https://sizebay.com) - How to find the perfect size in just a few clicks
+- [Sizebay](https://sizebay.com) – How to find the perfect size in just a few clicks
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
