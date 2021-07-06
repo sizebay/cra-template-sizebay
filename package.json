@@ -1,17 +1,17 @@
 {
-  "name": "create-szb-app",
+  "name": "cra-template-sizebay",
   "version": "1.0.0",
   "description": "Modern web app template by the likes of Sizebay.",
   "keywords": [
     "react",
-    "create-szb-app",
+    "create-react-app",
     "template",
     "typescript",
     "sizebay"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sizebay/create-szb-app",
+    "url": "https://github.com/sizebay/cra-template-sizebay",
     "directory": "."
   },
   "author": "Luiz Nickel (@vaporwavie) <luiz@sizebay.com>",
@@ -20,7 +20,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/sizebay/create-szb-app/issues"
+    "url": "https://github.com/sizebay/cra-template-sizebay/issues"
   },
   "files": [
     "template",
