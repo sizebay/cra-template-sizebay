@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from './logo.svg'
 
-import { Container, Header, Logo } from './stlyes'
+import { Container, Header, Logo } from './styles'
 
 function App() {
   return (
